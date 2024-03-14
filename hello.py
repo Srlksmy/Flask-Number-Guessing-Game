@@ -56,7 +56,6 @@ def error(notnumber):
 
 if __name__=='__main__':
     app.run(debug=True)
-    N = random.randint(1, 9)
 
 
 
